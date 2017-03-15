@@ -1,0 +1,10 @@
+body {
+	background-color: black ;
+}
+
+#color{
+	color:white;
+	font-family: 'Clicker Script', cursive;
+	font-size:200px;
+	text-align: center;
+}

@@ -28,7 +28,7 @@ $(document).ready(function(){
    
     var str = document.getElementById('clock')
 
-    str.innerText = hours + ":" + minutes + ":" + seconds
+    str.innerHTML = hours + ":" + minutes + ":" + seconds
   }
 
 
