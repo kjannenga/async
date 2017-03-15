@@ -1,0 +1,10 @@
+body {
+	background-color: black ;
+}
+
+#clock{
+	color:white;
+	font-family: 'Griffy', cursive;
+	font-size:200px;
+	text-align: center;
+}
